@@ -3,9 +3,9 @@
 ### Build application
 Build the Docker image manually by cloning the Git repo.
 ```
-$ git clone https://github.com/eitanief/FlaskProject.git
+$ git clone https://github.com/eitanief/FlaskHomeAssignment.git
 ```
-inside "FlaskProject" repository:
+inside "FlaskHomeAssignment" folder:
 ```
 $ docker build -t eitanief/resource_manager_service .
 ```
